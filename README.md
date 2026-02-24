@@ -1,3 +1,5 @@
+DISCLAIMER: Claude, Sonnet 4.6, did the bulk of the heavy lifting here. 
+
 # Options ETL Pipeline
 
 End-to-end PySpark pipeline that ingests live options chain data, computes standard options analytics metrics, and writes partitioned Parquet output with integrated data quality checks.
