@@ -2,7 +2,7 @@
 
 End-to-end PySpark pipeline that ingests live options chain data, computes standard options analytics metrics, and writes partitioned Parquet output with integrated data quality checks.
 
-Built as a portfolio project targeting a data engineering role focused on trading analytics at a firm like Chicago Trading Company.
+Built as a portfolio project targeting data engineering roles for a Chicago trading firm.
 
 ---
 
