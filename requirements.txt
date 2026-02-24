@@ -1,0 +1,5 @@
+yfinance>=0.2.36
+pyspark>=3.5.0
+py_vollib>=1.0.1
+pandas>=2.0.0
+pyarrow>=14.0.0
